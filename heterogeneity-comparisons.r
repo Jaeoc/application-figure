@@ -1,6 +1,6 @@
 #**********************************************************
-# Project: VICI application
-# Purpose: Create a figure for Jelte's application
+# Project: Application figure
+# Purpose: Create a figure for my supervisor's grant application
 # code: Anton Olsson-Collentine
 #**********************************************************
 
